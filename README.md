@@ -1,0 +1,2 @@
+# copyTextToClipboard
+copyTextToClipboard
